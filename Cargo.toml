@@ -1,0 +1,3 @@
+[workspace]
+members = ["rsoil_core", "pyrsoil"]
+resolver = "2"
